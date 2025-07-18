@@ -9,7 +9,7 @@
         "email": "Tifious@gmail.com",
         "url": "https://exemple.com/"
     },
-    "url": "https://zealous-elgamal.2-58-199-8.plesk.page",
+    "url": "https://xerionpvp.verycore.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
